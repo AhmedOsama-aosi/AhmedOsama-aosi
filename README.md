@@ -28,7 +28,7 @@ I have developed many applications in different programming languages:
 ***
 # Some projects i have developed 
 * Library App
-* Solar Panel needs inquary and predicit their output WebSite
+* A website to inquire about solar panel needs and predict their production using AI
 * Chat Appliction
 * Clinic Reservation System
 * POS System
