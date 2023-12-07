@@ -34,7 +34,7 @@ I have developed many applications in different programming languages:
 * POS System
 * Text Memorization by Voice Appliction Using AI
 * Mall System
-* Mony Manager App
+* Money Manager App
 * E-commerce System
   
 
