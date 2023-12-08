@@ -2,7 +2,7 @@
 
 My name is Ahmed Osama.  
 I am a software engineer interested in everything related to new software technologies.  
-I have developed many applications in different programming languages:  
+I have developed many applications in different programming languages and with different frameworks:  
 
 * c#
    * Windows form
