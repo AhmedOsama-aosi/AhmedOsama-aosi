@@ -2,6 +2,8 @@
 
 My name is Ahmed Osama.  
 I am a software engineer interested in everything related to new software technologies.  
+I am currently work as freelancer.  
+***
 I have developed many applications in different programming languages and with different frameworks:  
 
 * c#
@@ -28,7 +30,7 @@ I have developed many applications in different programming languages and with d
 ***
 # Some projects i have developed 
 * Library App
-* A website to inquire about solar panel needs and predict their production using AI
+* A website to inquire about your solar panel needs and predict their production using AI
 * Chat Appliction
 * Clinic Reservation System
 * POS System
