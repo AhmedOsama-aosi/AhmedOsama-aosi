@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Ahmed Osama.  
-I am a software engineer interested in everything related to new software technologies.  
-I am currently work as freelancer.  
+#### My name is Ahmed Osama.  
+#### I am a software engineer interested in everything related to new software technologies.  
+#### I am currently work as **freelancer**.  
 ***
 I have developed many applications in different programming languages and with different frameworks:  
 
